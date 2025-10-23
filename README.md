@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Devin White
 
-I'm a first-year Software Engineering student at Carleton University with a passion for **Python, AI/ML, and web development**. I love building projects that solve real problems and learning new technologies along the way.
+I'm a Software Engineering student at Carleton University passionate about building intelligent, user-friendly software. I focus on Python, web development (React, Flask), and machine learning applications.
 
 ---
 
