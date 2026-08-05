@@ -7,7 +7,6 @@ I am currently learning:
 
 - **Full-stack web development** (HTML, CSS, JavaScript, React)
 - **Machine Learning and AI** (Python, TensorFlow, scikit-learn)
-- **Software engineering best practices** (Git, testing, clean code)
 
 ---
 
